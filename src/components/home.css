@@ -1,0 +1,105 @@
+.main {
+  border: 2px solid;
+  width: auto;
+  height: 90vh;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1472%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='url(%23SvgjsLinearGradient1473)'%3e%3c/rect%3e%3cpath d='M1059.9084490199032 22.19865311194124L1056.687448213782 206.7296657072641 1335.094467509827 119.29566061878432z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M-27.86317575395563 671.8532660928233L261.97648344395384 498.075763263759 6.139102377348792 350.3679824361856z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1542.7876384975305 321.1131218509321L1573.927995135395 124.50064796109442 1346.1751646076927 289.97276521306765z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1464.7123359989614 821.5377026979817L1748.1772781005789 792.017441891493 1605.2804524411602 587.9396251562192z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1934.2524737113024 48.3673053581733L1731.9102366040074 58.971612660129225 1848.9878161105887 357.1828146700936z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M734.351079012604 1145.997778751695L726.962569719967 934.4185552645622 522.7718555254712 1153.386288044332z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M-141.82225737158754 749.5742185484453L-109.77160964093912 931.3424743302423 146.85545016643226 792.3823748433712z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1299.8375805301007 974.1678293597539L1089.8355469347757 917.6833936315847 1135.8247188008881 1102.1358873012916z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M534.0168485564722 386.79229588382725L790.8469953187821 455.609726300755 602.8342789733999 129.96214912151726z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M689.665131884504 512.0230561776482L552.2785472565678 477.7687334149192 569.5903554264424 700.9757717381882z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M32.1489969281983 440.9844244393424L-143.57758028673555 643.1347271764856 234.29929966534158 616.7110016542763z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1253.6827678592513 367.25258528089626L1500.8148874398855 345.6313264244577 1232.0615090028127 120.12046570026195z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1900.7826489702761 350.0915427157924L1824.4629348812266 255.84454479965703 1721.2522950515483 417.4476148912991z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1773.445896805288 30.022240701598676L1611.190782048519 171.06846010250797 1914.4921162061974 192.27735545836777z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M444.0974860137202 967.6398625856235L623.9541706845099 1154.2424739058588 690.1924792387883 937.5867289271366z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1683.5031500535629 625.7422022761051L1463.6018742768842 906.6507737952279 1771.612739399521 955.434902281553z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1160.7252729293305 479.34571178789696L1032.2849484191238 363.69752414797995 1045.0770852894134 607.7860362981036z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M-45.455144706878144 264.8812686855541L124.40639888932739 253.00339247006778 21.65881276799516 4.15001518350266z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1644.1856900423577 919.364786652786L1487.4935886965643 623.991053894796 1328.3037038584841 869.1219801506339z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M811.3756007370483 406.74651001664506L736.5926242515875 81.41160250006149 519.7351377704787 276.67096036391604z' fill='rgba(89%2c 212%2c 245%2c 0.43)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1472'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='50%25' y1='0%25' x2='50%25' y2='100%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1473'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(40%2c 44%2c 52%2c 0.9)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.within {
+  border: 3px dashed;
+  width: auto;
+  height: -webkit-fill-available;
+  margin: 2%;
+  padding-top: 1rem;
+  color: #61dafb;
+  position: relative;
+
+}
+
+.within::before {
+    background-image: url("../assets/copy2.jfif");
+    content: close-quote;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.35;
+}
+
+.scrollPercentage {
+  font-size: 3rem;
+  position: absolute;
+  z-index: 999;
+  right: 0.5%;
+  top: 80%;
+  left: 0%;
+}
+.codeText {
+  position: relative;
+}
+.name {
+  font-size: 5rem;
+  font-weight: 600;
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding-top: 10%;
+}
+
+.scroll-downs {
+  position: absolute;
+  top: 40%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 34px;
+  height: 55px;
+}
+
+.scroll-down {
+  position: fixed;
+  top: 75%;
+  right: 45%;
+  left: 45%;
+  font-size: 2rem;
+}
+
+.mousey {
+  width: 3px;
+  padding: 10px 15px;
+  height: 35px;
+  border: 2px solid #fff;
+  border-radius: 25px;
+  opacity: 0.75;
+  box-sizing: content-box;
+}
+
+.scroller {
+  width: 3px;
+  height: 10px;
+  border-radius: 25%;
+  background-color: #fff;
+  animation-name: scroll;
+  animation-duration: 2.2s;
+  animation-timing-function: cubic-bezier(.15, .41, .69, .94);
+  animation-iteration-count: infinite;
+}
+
+@keyframes scroll {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(15px);
+    opacity: 0;
+  }
+}
